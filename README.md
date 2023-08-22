@@ -81,9 +81,9 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-#colour image:
+colour image:
 ![1](https://github.com/Bhuvaneshwari-2003/READ-AND-WRITE-IMAGE/assets/94828604/6c5ccfac-e80e-47b5-82e6-e1371c1e1adb)
-#Grayscale Image:
+Grayscale Image:
 
 
 ### ii)Write the image
